@@ -12,7 +12,7 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/prenato84/ignite-conceitos-nodejs?style=flat">
 
   <a href="https://app.rocketseat.com.br/me/bruno-nielsen-do-val-09637">
-    <img alt="Made by Bruno Nielsen" src="https://img.shields.io/badge/made%20by-Paulo%20Castro-orange">
+    <img alt="Made by Bruno Nielsen" src="https://img.shields.io/badge/made%20by-Bruno%20Nielsen-orange">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">

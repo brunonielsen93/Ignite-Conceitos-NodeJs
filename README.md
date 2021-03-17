@@ -50,7 +50,7 @@ Tudo isso para cada usuário em específico (o `username` será passado pelo hea
 - Clone este repositório
 
 ```
-> git clone https://github.com/prenato84/ignite-conceitos-nodejs
+> git clone https://github.com/brunonielsen93/Ignite-Conceitos-NodeJs
 ```
 
 - Navegue até o diretório principal do projeto
